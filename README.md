@@ -10,6 +10,7 @@ Dự án này sử dụng bo mạch Arduino Uno kết hợp với cảm biến n
 
 ## 🛠️ Phần cứng sử dụng
 | STT | Tên linh kiện      | Số lượng | Ghi chú                     |
+| --- | ---                | ---      | ---                         |
 | 1   | Arduino Uno R3     | 1        | Bo mạch vi điều khiển chính |
 | 2   | Cảm biến LM35      | 3        | Cảm biến nhiệt độ Analog    |
 | 3   | Dây cắm Breadboard | N/A      | Kết nối mạch                |
