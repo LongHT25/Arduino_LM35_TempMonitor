@@ -30,3 +30,5 @@ Dự án này sử dụng bo mạch Arduino Uno kết hợp với cảm biến n
 ## 👥 Thành viên nhóm
 - **Trương Hoàng Long** (N23DCCI043) - Nhóm trưởng
 - **Nguyễn Đức Lương** (N23DCCI044) - Thành viên hỗ trợ
+
+* [Trương Hoàng Long](https://LongHT25.github.io)
